@@ -45,8 +45,8 @@ Category  |  Description
 [RFID / NFC](https://github.com/yadox666/The-Hackers-Hardware-Toolkit/) | A nice collection of beginners and proffesional tools for researching about RFID and NFC technologies based in LF (low frequency) and HF (high frequency) contactless cards, tags and badgets. Hacking tools for access controls, garages, shops, etc.
 [HID / Keyloggers](https://github.com/yadox666/The-Hackers-Hardware-Toolkit/) | HID (hardware input devices) like mouses and USB keyboards are open to a keystroke injection attack. Many of these devices like rubberducky, badusb, badusb ninja, etc. are increasing in capabilities and effectivity. Hardware keyloggers are still one of the best option for credentials capture.
 [Network](https://github.com/yadox666/The-Hackers-Hardware-Toolkit/) | Small routers, taps, and other similar network devices based in Linux can be the perfect companion for an internal pentester. Here you will find many OpenWRT / LEDE based mini routers that can be customized for network intrusion.
-[BUS](https://github.com/yadox666/The-Hackers-Hardware-Toolkit/) | Harware hacking is one the most beautifull hacking categories. Since it's also one of the most complicated ones. There are many different bus technologies and protocols and a hardware hacker must own a lot of tools for discovering and 'speaking' with such buses. Some of the categories included here are: car hacking, motherboard and pcb hacking, industrial hacking, etc.
-[Accesories](https://github.com/yadox666/The-Hackers-Hardware-Toolkit/) |   Not only the previous tools are enough for creating your ouwn hacking device. If you are going to build a functional system you'll also need a lot of accesories like batteries, chargers, gps, sensors, DC-DC, lab equipment, etc.
+[BUS](https://github.com/yadox666/The-Hackers-Hardware-Toolkit/) | Hardware hacking is one the most beautiful hacking categories. Since it's also one of the most complicated ones. There are many different bus technologies and protocols and a hardware hacker must own a lot of tools for discovering and 'speaking' with such buses. Some of the categories included here are: car hacking, motherboard and pcb hacking, industrial hacking, etc.
+[Accesories](https://github.com/yadox666/The-Hackers-Hardware-Toolkit/) |   Not only the previous tools are enough for creating your own hacking device. If you are going to build a functional system you'll also need a lot of accesories like batteries, chargers, gps, sensors, DC-DC, lab equipment, etc.
 
 ![First printed version of the catalog presented in HITB Amsterdam 2019](https://pbs.twimg.com/media/D5eKoHnXkAEfIfL?format=jpg&name=large)
 
@@ -56,6 +56,7 @@ Feel free to open a bug for correcting any description, any misspelled word, or 
 ### To-do:
  - Add your feedback
  - Add your suggestions
+ - Add an unboxing / getting started section on many items
 
 ### Need more info?
 
@@ -64,7 +65,11 @@ Follow me on GitHub or on your favorite social media to get daily updates on int
  - Twitter: [@yadox](https://twitter.com/yadox)
  - Linkedin: [Yago Hansen](https://www.linkedin.com/in/yadox/)
 
+### Want to get it paperback?
 
+I have also published this book in Amazon, because many people asked about getting a cheap paperback format. I kept the same policy to distribute it in a non-profit mode, so I kept the price as low as posible. It is available through all the Amazon international sites for many countries. If it's not available for shipping to your country, just feel free to download and print it using your own printing service. Book ISBN-10: 1099209463.
+
+ - Amazon.com: [amazon.com](https://amzn.com/1099209463)
 
 License
 ----
